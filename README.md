@@ -74,7 +74,7 @@ https://www.jflap.org/
 https://semver.org/lang/es/
 https://cleventy.com/que-es-git-flow-y-como-funciona/
 
-# ** Documentacion**
+# **Documentacion**
 https://www.angelfire.com/tx4/cus/notes/smalltalk.html
 https://devdocs.io/
 https://git-scm.com/book/en/v2
