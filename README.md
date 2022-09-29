@@ -11,22 +11,49 @@
 
 [Link](https://bitbucket.org/)
 
-## **ESLint**
-https://eslint.org/
 ## **Bootstrap**
-https://getbootstrap.com/
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" /> Bootstrap es un framework CSS y Javascript diseñado para la creación de interfaces limpias y con un diseño responsive. Además, ofrece un amplio abanico de herramientas y funciones, de manera que los usuarios pueden crear prácticamente cualquier tipo de sitio web haciendo uso de los mismos.
+
+[Link](https://getbootstrap.com/)
+
 ## **Tailwind**
-https://tailwindcss.com/
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" /> Tailwind CSS es un framework de CSS de código abierto para el diseño de páginas web. La principal característica de esta biblioteca es que, a diferencia de otras como Bootstrap, no genera una serie de clases predefinidas para elementos como botones o tablas.
+
+[Link](https://tailwindcss.com/)
+
 ## **Log4J**
-https://logging.apache.org/log4j/2.x/
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Apache_Log4j_Logo.png" alt="log4j" width="80" /> Log4j es una biblioteca de código abierto desarrollada en Java por la Apache Software Foundation que permite a los desarrolladores de software escribir mensajes de registro, cuyo propósito es dejar constancia de una determinada transacción en tiempo de ejecución.
+
+[Link](https://logging.apache.org/log4j/2.x/)
+
 ## **Maven**
-https://maven.apache.org/
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="maven" width="80" /> Maven es una potente herramienta de gestión de proyectos que se utiliza para gestión de dependencias, como herramienta de compilación e incluso como herramienta de documentación. Es de código abierto y gratuita.
+
+[Link](https://maven.apache.org/)
+
+
 ## **Spring**
-https://spring.io/
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg" alt="spring" width="40" /> Spring es un framework para el desarrollo de aplicaciones y contenedor de inversión de control, de código abierto para la plataforma Java.
+
+[Link](https://spring.io/)
+
 ## **ReactJS**
 https://es.reactjs.org/
 ## **Tomcat**
 https://tomcat.apache.org/
+## **MariaDB**
+https://mariadb.org/
+## **SWI-Prolog**
+https://www.swi-prolog.org/Download.html
+## **GHC**
+https://www.haskell.org/ghc/
+## **Free Pascal**
+https://www.freepascal.org/download.html
 
 # **Webs**
 https://www.w3schools.com/
