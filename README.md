@@ -54,6 +54,8 @@ https://www.swi-prolog.org/Download.html
 https://www.haskell.org/ghc/
 ## **Free Pascal**
 https://www.freepascal.org/download.html
+## **JWT**
+https://jwt.io/
 
 # **Webs**
 https://www.w3schools.com/
