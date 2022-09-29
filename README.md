@@ -43,19 +43,62 @@
 [Link](https://spring.io/)
 
 ## **ReactJS**
-https://es.reactjs.org/
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" /> React es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página. Es mantenido por Facebook y la comunidad de software libre.
+
+[Link](https://es.reactjs.org/)
+
 ## **Tomcat**
-https://tomcat.apache.org/
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" alt="tomcat" width="40" /> Apache Tomcat funciona como un contenedor de servlets desarrollado bajo el proyecto Jakarta en la Apache Software Foundation. Tomcat implementa las especificaciones de los servlets y de JavaServer Pages de Oracle Corporation.
+
+[Link](https://tomcat.apache.org/)
+
 ## **MariaDB**
-https://mariadb.org/
+
+<img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" alt="mariadb" width="40" /> MariaDB es un sistema de gestión de bases de datos derivado de MySQL con licencia GPL.
+
+[Link](https://mariadb.org/)
+
 ## **SWI-Prolog**
-https://www.swi-prolog.org/Download.html
+
+<img src="https://avatars2.githubusercontent.com/u/6884283?v=3&s=200" alt="swipl" width="40" /> SWI-Prolog es una implementación en código abierto del lenguaje de programación Prolog. SWI-Prolog posee un rico conjunto de características, bibliotecas, herramientas y una documentación extensiva.
+
+[Link](https://www.swi-prolog.org/Download.html)
+
 ## **GHC**
-https://www.haskell.org/ghc/
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" alt="ghc" width="40" /> El Glasgow Haskell Compiler es un compilador nativo de código libre para el lenguaje de programación funcional Haskell, que fue originalmente desarrollado en la Universidad de Glasgow.
+
+[Link](https://www.haskell.org/ghc/)
+
 ## **Free Pascal**
-https://www.freepascal.org/download.html
+
+<img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" alt="freepascal" width="40" /> Free Pascal es un compilador Pascal portable, libre y de código abierto, que representa una alternativa a los productos comerciales Turbo Pascal y Delphi.
+
+[Link](https://www.freepascal.org/download.html)
+
 ## **JWT**
-https://jwt.io/
+
+<img src="https://seeklogo.com/images/J/jwt-logo-65D86B4640-seeklogo.com.png" alt="jwt" width="40" /> JSON Web Token (abreviado JWT) es un estándar abierto basado en JSON propuesto por IETF (RFC 7519) para la creación de tokens de acceso que permiten la propagación de identidad y privilegios o claims en inglés.
+
+[Link](https://jwt.io/)
+
+## **Docker**
+
+<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" width="50" /> Docker es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.
+
+[Link](https://www.docker.com/)
+
+## **Jenkins**
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" /> Jenkins es un servidor de automatización open source escrito en Java. Está basado en el proyecto Hudson y es, dependiendo de la visión, un fork del proyecto o simplemente un cambio de nombre.
+
+[Link](https://www.jenkins.io/)
+
+## **Thymeleaf**
+https://www.thymeleaf.org/
+
 
 # **Webs**
 https://www.w3schools.com/
@@ -64,6 +107,8 @@ https://www.frontendmentor.io/challenges
 https://devchallenges.io/
 https://www.baeldung.com/
 https://sentry.io/welcome/#
+https://start.spring.io/
+https://search.maven.org/
 
 # **Aplicaciones**
 https://www.gitkraken.com/
