@@ -97,8 +97,10 @@
 [Link](https://www.jenkins.io/)
 
 ## **Thymeleaf**
-https://www.thymeleaf.org/
 
+<img src="https://programandoointentandolo.com/wordpress/wp-content/uploads/2019/02/thymeleaf.png" alt="thymeleaf" width="40" /> Thymeleaf es una biblioteca Java que implementa un motor de plantillas de XML/XHTML/HTML5 que puede ser utilizado tanto en modo web como en otros entornos no web. Se acopla muy bien para trabajar en la capa vista del MVC de aplicaciones web, pero puede procesar cualquier archivo XML, incluso en entornos desconectados.
+
+[Link](https://www.thymeleaf.org/)
 
 # **Webs**
 https://www.w3schools.com/
