@@ -103,8 +103,20 @@
 [Link](https://www.thymeleaf.org/)
 
 # **Webs**
-https://www.w3schools.com/
-https://visualgo.net/en
+
+## **W3Schools**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png" alt="w3schools" width="40" />  W3Schools es un sitio web para aprender tecnologías web en línea. Contiene tutoriales de HTML, CSS, JavaScript, SQL, PHP, XML y otras tecnologías.
+
+[Link](https://www.w3schools.com/)
+
+## **Visualgo**
+
+Visualgo es una herramienta la cual ayuda a comprender el funcionamiento de los algoritmos y estructuras de datos. Esta aplicación es una alternativa muy completa en cuanto a número de algoritmos desarrollados para visualizar.
+
+[Link](https://visualgo.net/en)
+
+
 https://www.frontendmentor.io/challenges
 https://devchallenges.io/
 https://www.baeldung.com/
