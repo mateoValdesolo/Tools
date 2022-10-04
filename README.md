@@ -102,6 +102,12 @@
 
 [Link](https://www.thymeleaf.org/)
 
+## **Swagger**
+
+<img src="https://help.apiary.io/images/swagger-logo.png" alt="swagger" width="40" /> Swagger es un conjunto de herramientas de software de código abierto para diseñar, construir, documentar, y utilizar servicios web RESTful.
+
+[Link](https://swagger.io/)
+
 # **Webs**
 
 ## **W3Schools**
@@ -116,19 +122,67 @@ Visualgo es una herramienta la cual ayuda a comprender el funcionamiento de los 
 
 [Link](https://visualgo.net/en)
 
+## **Frontend Mentor**
 
-https://www.frontendmentor.io/challenges
-https://devchallenges.io/
-https://www.baeldung.com/
-https://sentry.io/welcome/#
-https://start.spring.io/
-https://search.maven.org/
+<img src="https://seeklogo.com/images/F/frontend-mentor-logo-DD85EFE0E9-seeklogo.com.png" alt="frontendmentor" width="40" /> Frontend Mentor proporciona diseños para que pueda practicar sus habilidades de front-end utilizando un flujo de trabajo de la vida real. Incluye diseños tanto móviles como de escritorio.
+
+[Link](https://www.frontendmentor.io/challenges)
+
+## **devChallenges**
+
+devChallenges es una plataforma donde cualquiera puede aprender desarrollo web, tanto Frontend, Backend o Full-Stack
+
+[Link](https://devchallenges.io/)
+
+## **Baeldung**
+
+<img src="https://miro.medium.com/max/600/1*UWLR9XgcVbjI8ebYIeKh_Q.png" alt="baeldung" width="80" /> Baeldung se centra en el ecosistema de Java, ayudando a los desarrolladores a aprender a implementar aplicaciones web mejores y más seguras con Spring.
+
+[Link](https://www.baeldung.com/)
+
+## **Sentry**
+
+<img src="https://seeklogo.com/images/S/sentry-logo-36928B74C1-seeklogo.com.png" alt="sentry" width="40" /> Desde el seguimiento de errores hasta la supervisión del rendimiento, Sentry proporciona una capacidad de observación completa a nivel de código para que los equipos de desarrolladores puedan ver con mayor claridad, resolver más rápido y aprender continuamente sobre sus aplicaciones, desde el frontend hasta el backend.
+
+[Link](https://sentry.io/welcome/#)
+
+## **Spring Initializr**
+
+<img src="https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-initializr/0.11.2022090703/1662689883149/Microsoft.VisualStudio.Services.Icons.Default" alt="springinitializr" width="40" /> Spring Initializr es una API que permite la generación de proyectos con sus dependencias permitiendo simplificar esta etapa inicial de arranque de nuevos proyectos.
+
+[Link](https://start.spring.io/)
+
+## **Maven Central Repository**
+
+El repositorio central de Maven es un repositorio proporcionado por la comunidad de Maven. Contiene una gran cantidad de bibliotecas de uso común.
+
+[Link](https://search.maven.org/)
 
 # **Aplicaciones**
-https://www.gitkraken.com/
-https://www.postman.com/
-https://www.soapui.org/
-https://www.sourcetreeapp.com/
+
+## **GitKraken**
+
+<img src="https://1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/gitkraken-logo-mono-light-sq.png" alt="gitkraken" width="60" /> GitKraken es un cliente GUI Git que facilita el uso eficiente y confiable de Git en escritorio y ofrece la mayoría de las operaciones de línea de comandos.
+
+[Link](https://www.gitkraken.com/)
+
+## **Postman**
+
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="40" /> Postman es una plataforma de API para que los desarrolladores diseñen, construyan, prueben e iteren sus API.
+
+[Link](https://www.postman.com/)
+
+## **SoapUI**
+
+SoapUI es una herramienta, desarrollada en java, para la realización de pruebas a aplicaciones con arquitectura orientada a servicio y transferencia de estado representacional. Soporta múltiples protocolos como SOAP, REST, HTTP, JMS, AMF y JDBC.
+
+[Link](https://www.soapui.org/)
+
+## **SourceTree**
+
+<img src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" alt="sourcetree" width="40" /> SourceTree simplifica la forma en que interactúa con sus repositorios de Git para que pueda concentrarse en la codificación. Permite visualizar y administrar sus repositorios a través de una sencilla interfaz de usuario que provee la aplicación.
+
+[Link](https://www.sourcetreeapp.com/)
 
 # **Editores de Texto / Entornos de Desarrollo**
 https://pharo.org/download
