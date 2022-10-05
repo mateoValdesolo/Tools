@@ -115,6 +115,12 @@
 
 [Link](https://swagger.io/)
 
+## **Sentry**
+
+<img src="https://seeklogo.com/images/S/sentry-logo-36928B74C1-seeklogo.com.png" alt="sentry" width="40" /> Desde el seguimiento de errores hasta la supervisión del rendimiento, Sentry proporciona una capacidad de observación completa a nivel de código para que los equipos de desarrolladores puedan ver con mayor claridad, resolver más rápido y aprender continuamente sobre sus aplicaciones, desde el frontend hasta el backend.
+
+[Link](https://sentry.io/welcome/#)
+
 # **Webs**
 
 ## **W3Schools**
@@ -146,12 +152,6 @@ devChallenges es una plataforma donde cualquiera puede aprender desarrollo web, 
 <img src="https://miro.medium.com/max/600/1*UWLR9XgcVbjI8ebYIeKh_Q.png" alt="baeldung" width="80" /> Baeldung se centra en el ecosistema de Java, ayudando a los desarrolladores a aprender a implementar aplicaciones web mejores y más seguras con Spring.
 
 [Link](https://www.baeldung.com/)
-
-## **Sentry**
-
-<img src="https://seeklogo.com/images/S/sentry-logo-36928B74C1-seeklogo.com.png" alt="sentry" width="40" /> Desde el seguimiento de errores hasta la supervisión del rendimiento, Sentry proporciona una capacidad de observación completa a nivel de código para que los equipos de desarrolladores puedan ver con mayor claridad, resolver más rápido y aprender continuamente sobre sus aplicaciones, desde el frontend hasta el backend.
-
-[Link](https://sentry.io/welcome/#)
 
 ## **Spring Initializr**
 
