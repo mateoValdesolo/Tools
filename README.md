@@ -1,4 +1,5 @@
 # **Herramientas**
+
 ## **Github**
 
 <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="github" width="60" /> GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git.
@@ -47,6 +48,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" /> React es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página. Es mantenido por Facebook y la comunidad de software libre.
 
 [Link](https://es.reactjs.org/)
+
+## **Angular**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="angular" width="40" /> Angular es un framework para aplicaciones web desarrollado en TypeScript, de código abierto, mantenido por Google, que se utiliza para crear y mantener aplicaciones web de una sola página.
+
+[Link](https://angular.io/)
 
 ## **Tomcat**
 
@@ -185,13 +192,49 @@ SoapUI es una herramienta, desarrollada en java, para la realización de pruebas
 [Link](https://www.sourcetreeapp.com/)
 
 # **Editores de Texto / Entornos de Desarrollo**
-https://pharo.org/download
-https://code.visualstudio.com/
-https://www.sublimetext.com/
-https://www.jetbrains.com/es-es/idea/
-https://neovim.io/
-https://www.eclipse.org/downloads/
-https://netbeans.apache.org/
+
+## **Pharo**
+
+<img src="https://files.pharo.org/media/logo/icon-512x512.png" alt="pharo" width="40" /> Pharo es una implementación multiplataforma de código abierto del tiempo de ejecución y lenguaje de programación clásico Smalltalk-80. Se basa en la máquina virtual OpenSmalltalk llamada Cog, que evalúa un lenguaje de programación dinámico, reflexivo y orientado a objetos con una sintaxis muy parecida a Smalltalk-80.
+
+[Link](https://pharo.org/download)
+
+## **Visual Studio Code**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" /> Visual Studio Code es un editor de código fuente desarrollado por Microsoft para Windows, Linux, macOS y Web. Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código.
+
+[Link](https://code.visualstudio.com/)
+
+## **Sublime Text**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Breezeicons-apps-48-sublime-text.svg/1200px-Breezeicons-apps-48-sublime-text.svg.png" alt="sublimetext" width="40" /> Sublime Text es un editor de texto y editor de código fuente. Está escrito en C++ y Python para los plugins. Desarrollado originalmente como una extensión de Vim, con el tiempo fue creando una identidad propia. Aún conserva un modo de edición tipo vi llamado Vintage mode.
+
+[Link](https://www.sublimetext.com/)
+
+## **IntelliJ**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="40" /> IntelliJ IDEA es un entorno de desarrollo integrado para el desarrollo de programas informáticos. Es desarrollado por JetBrains, y está disponible en dos ediciones: edición para la comunidad y edición comercial.
+
+[Link](https://www.jetbrains.com/es-es/idea/)
+
+## **NeoVim**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" alt="neovim" width="40" /> Neovim es una refactorización del código de Vim, es un fork, no un clon de este. Trae lo bueno de Vim con una mejor experiencia fuera de caja para el usuario.
+
+[Link](https://neovim.io/)
+
+## **Eclipse**
+
+<img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="eclipse" width="40" /> Eclipse es una plataforma de software compuesto por un conjunto de herramientas de programación de código abierto multiplataforma para desarrollar lo que el proyecto llama "Aplicaciones de Cliente Enriquecido", opuesto a las aplicaciones "Cliente-liviano" basadas en navegadores.
+
+[Link](https://www.eclipse.org/downloads/)
+
+## **NetBeans**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" alt="netbeans" width="40" /> NetBeans es un entorno de desarrollo integrado libre, hecho principalmente para el lenguaje de programación Java. Existe además un número importante de módulos para extenderlo. NetBeans IDE es un producto libre y gratuito sin restricciones de uso.
+
+[Link](https://netbeans.apache.org/)
+
 
 # **Otros**
 - [Carbon](https://carbon.now.sh/)
