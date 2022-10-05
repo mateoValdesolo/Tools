@@ -175,7 +175,7 @@ El repositorio central de Maven es un repositorio proporcionado por la comunidad
 
 ## **GitKraken**
 
-<img src="https://1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/gitkraken-logo-mono-light-sq.png" alt="gitkraken" width="60" /> GitKraken es un cliente GUI Git que facilita el uso eficiente y confiable de Git en escritorio y ofrece la mayoría de las operaciones de línea de comandos.
+<img src="https://user-images.githubusercontent.com/2437911/62945705-2e111300-bdd7-11e9-8f82-cffa978d1071.png" alt="gitkraken" width="50" /> GitKraken es un cliente GUI Git que facilita el uso eficiente y confiable de Git en escritorio y ofrece la mayoría de las operaciones de línea de comandos.
 
 [Link](https://www.gitkraken.com/)
 
