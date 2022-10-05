@@ -121,6 +121,12 @@
 
 [Link](https://sentry.io/welcome/#)
 
+## **GitHub Copilot**
+
+<img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" alt="copilot" width="40" /> GitHub Copilot es una herramienta de inteligencia artificial desarrollada por GitHub y OpenAI para ayudar a los usuarios de entornos de desarrollo integrados de Visual Studio Code, Visual Studio, Neovim y JetBrains mediante el autocompletado de código.
+
+[Link](https://github.com/features/copilot)
+
 # **Webs**
 
 ## **W3Schools**
