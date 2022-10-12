@@ -197,6 +197,12 @@ SoapUI es una herramienta, desarrollada en java, para la realización de pruebas
 
 [Link](https://www.sourcetreeapp.com/)
 
+## **Putty**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg" alt="putty" width="40" /> PuTTY es un cliente SSH, Telnet, rlogin, y TCP raw con licencia libre. 
+
+[Link](https://www.putty.org/)
+
 # **Editores de Texto / Entornos de Desarrollo**
 
 ## **Pharo**
