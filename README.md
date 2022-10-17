@@ -203,6 +203,12 @@ SoapUI es una herramienta, desarrollada en java, para la realización de pruebas
 
 [Link](https://www.putty.org/)
 
+## **Windows Terminal Preview**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png" alt="wtp" width="40" /> Terminal Windows es una aplicación de terminal moderna, rápida, eficaz, eficiente y productiva para los usuarios de herramientas de línea de comandos y shells, como Símbolo del sistema, PowerShell y WSL. Entre las características principales se incluyen varias pestañas, paneles, compatibilidad con caracteres Unicode y UTF-8, un motor de representación de texto acelerado por GPU, y temas, estilos y configuraciones personalizados. 
+
+[Link](https://apps.microsoft.com/store/detail/windows-terminal-preview/9N8G5RFZ9XK3?hl=es-es&gl=es)
+
 # **Editores de Texto / Entornos de Desarrollo**
 
 ## **Pharo**
@@ -247,6 +253,17 @@ SoapUI es una herramienta, desarrollada en java, para la realización de pruebas
 
 [Link](https://netbeans.apache.org/)
 
+## **Notepad++**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Notepad%2B%2B_Logo.png?20121112030109" alt="notepad++" width="60" /> Notepad++ es un editor de texto y de código fuente libre con soporte para varios lenguajes de programación. Con soporte nativo para Microsoft Windows. Se parece al Bloc de notas en cuanto al hecho de que puede editar texto sin formato y de forma simple.
+
+[Link](https://notepad-plus-plus.org/downloads/)
+
+## **Fleet**
+
+<img src="https://www.jetbrains.com/_assets/www/fleet/inc/overview-content/img/fleet-logo.65f4a04c59fc3ba93bb5e181050891c5.png" alt="fleet" width="50" /> Fleet es un editor de texto rápido y ligero que permite navegar por el código y editarlo rápidamente cuando lo necesite. Se inicia en pocos segundos para que pueda empezar a trabajar al momento y puede transformarse fácilmente en un IDE, gracias al motor de procesamiento de código de IntelliJ, que se ejecuta de forma independiente al editor.
+
+[Link](https://www.jetbrains.com/fleet/)
 
 # **Otros**
 - [Carbon](https://carbon.now.sh/)
@@ -267,6 +284,8 @@ https://www.frontendmentor.io/
 https://learngitbranching.js.org/
 https://ohmygit.org/
 https://www.jflap.org/
+https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W?hl=es-es&gl=es
+https://ohmyposh.dev/
 
 # **Temas Interesantes**
 https://semver.org/lang/es/
@@ -277,3 +296,4 @@ https://www.elastic.co/es/elastic-stack/
 https://www.angelfire.com/tx4/cus/notes/smalltalk.html
 https://devdocs.io/
 https://git-scm.com/book/en/v2
+https://developer.mozilla.org/en-US/
