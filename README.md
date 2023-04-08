@@ -127,6 +127,27 @@
 
 [Link](https://github.com/features/copilot)
 
+## **DBeaver**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png" alt="dbeaver" width="40" /> DBeaver es una aplicación de software cliente de SQL y una herramienta de administración de bases de datos. Para las bases de datos relacionales, utiliza la interfaz de programación de aplicaciones JDBC para interactuar con las bases de datos a través de un controlador JDBC.
+
+[Link](https://dbeaver.io/)
+
+## **JUnit**
+
+<img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" /> JUnit es un conjunto de clases (framework) que permite realizar la ejecución de clases Java de manera controlada, para poder evaluar si el funcionamiento de cada uno de los métodos de la clase se comporta como se espera.
+
+[Link](https://junit.org/junit5/)
+
+## **Mockito**
+
+<img src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png" alt="mockito" width="100" /> Mockito es un framework de prueba del código abierto para Java publicado bajo la licencia MIT. El framework permite la creación de objetos dobles de prueba en pruebas de unidad automatizada para el desarrollo guiado por pruebas o desarrollo dirigido por el comportamiento.
+
+[Link](https://site.mockito.org/)
+
+
+
+
 # **Webs**
 
 ## **W3Schools**
