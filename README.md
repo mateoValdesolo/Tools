@@ -2,7 +2,7 @@
 
 ## **Github**
 
-<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="github" width="60" /> GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git.
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="60" /> GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git.
 
 [Link](https://github.com/) 
 
@@ -141,9 +141,16 @@
 
 ## **Mockito**
 
-<img src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png" alt="mockito" width="100" /> Mockito es un framework de prueba del código abierto para Java publicado bajo la licencia MIT. El framework permite la creación de objetos dobles de prueba en pruebas de unidad automatizada para el desarrollo guiado por pruebas o desarrollo dirigido por el comportamiento.
+<img src="https://miro.medium.com/v2/resize:fit:800/0*SB_TBftIx7tBj6_0.png" alt="mockito" width="100" /> Mockito es un framework de prueba del código abierto para Java publicado bajo la licencia MIT. El framework permite la creación de objetos dobles de prueba en pruebas de unidad automatizada para el desarrollo guiado por pruebas o desarrollo dirigido por el comportamiento.
 
 [Link](https://site.mockito.org/)
+
+## **Jest**
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="40" /> Jest es un encantador marco de prueba de JavaScript centrado en la simplicidad.
+Funciona con proyectos que utilizan: Babel, TypeScript, Node, React, Angular, Vue y más.
+
+[Link](https://jestjs.io/)
 
 
 
