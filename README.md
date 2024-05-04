@@ -152,7 +152,23 @@ Funciona con proyectos que utilizan: Babel, TypeScript, Node, React, Angular, Vu
 
 [Link](https://jestjs.io/)
 
+## **Karma**
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/karma/karma-original.svg" alt="karma" width="40" /> El objetivo principal de Karma es brindar un entorno de prueba productivo a los desarrolladores. El entorno es uno en el que no tienen que establecer un montón de configuraciones, sino más bien un lugar donde los desarrolladores pueden simplemente escribir el código y obtener comentarios instantáneos de sus pruebas. Porque recibir comentarios rápidos es lo que te hace productivo y creativo.
+
+[Link](https://karma-runner.github.io/latest/index.html)
+
+## **Ionic**
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="ionic" width="40" /> Ionic es un conjunto de herramientas de interfaz de usuario de código abierto para crear aplicaciones móviles, web y de escritorio multiplataforma utilizando tecnologías web como HTML, CSS y JavaScript/TypeScript.
+
+[Link](https://karma-runner.github.io/latest/index.html)
+
+## **Sass**
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" /> Sass es un preprocesador de CSS compatible con todas sus versiones. Por lo tanto, se trata de una herramienta utilizada por los desarrolladores web para traducir un código de hojas de estilo no estándar a un código CSS estándar, legible por la mayoría de los navegadores.
+
+[Link](https://sass-lang.com/)
 
 
 # **Webs**
@@ -263,6 +279,12 @@ SoapUI es una herramienta, desarrollada en java, para la realización de pruebas
 
 [Link](https://www.jetbrains.com/es-es/idea/)
 
+## **WebStorm**
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" /> WebStorm de JetBrains es un IDE especializado en JavaScript, con un editor de código inteligente y otras herramientas para desarrolladores. Está diseñado con características para que la programación sea más productiva y agradable.
+
+[Link](https://www.jetbrains.com/es-es/webstorm/)
+
 ## **NeoVim**
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" alt="neovim" width="40" /> Neovim es una refactorización del código de Vim, es un fork, no un clon de este. Trae lo bueno de Vim con una mejor experiencia fuera de caja para el usuario.
@@ -292,6 +314,20 @@ SoapUI es una herramienta, desarrollada en java, para la realización de pruebas
 <img src="https://www.jetbrains.com/_assets/www/fleet/inc/overview-content/img/fleet-logo.65f4a04c59fc3ba93bb5e181050891c5.png" alt="fleet" width="50" /> Fleet es un editor de texto rápido y ligero que permite navegar por el código y editarlo rápidamente cuando lo necesite. Se inicia en pocos segundos para que pueda empezar a trabajar al momento y puede transformarse fácilmente en un IDE, gracias al motor de procesamiento de código de IntelliJ, que se ejecuta de forma independiente al editor.
 
 [Link](https://www.jetbrains.com/fleet/)
+
+# **IA**
+
+## **ChatGPT**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="chatgpt" width="50" /> ChatGPT es una aplicación de chatbot de inteligencia artificial desarrollado en 2022 por OpenAI que se especializa en el diálogo. El chatbot es un modelo de lenguaje ajustado con técnicas de aprendizaje tanto supervisadas como de refuerzo. Está compuesto por los modelos GPT-4 y GPT-3.5 de OpenAI.
+
+[Link](https://chat.openai.com/)
+
+## **Phind**
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXDa-h1dTWYdNUDhgoZCaccMBYCTGCsKXkZfnl2GLeYvTJupK0qF5wW1GZfRyvx-u6Sw&usqp=CAU" alt="phind" width="50" /> Phind es un motor de respuestas inteligente para desarrolladores. Centrado en ayudarlo a resolver problemas desafiantes, Phind lo lleva de una idea a un producto funcional.
+
+[Link](https://www.phind.com/)
 
 # **Otros**
 - [Carbon](https://carbon.now.sh/)
@@ -325,3 +361,4 @@ https://www.angelfire.com/tx4/cus/notes/smalltalk.html
 https://devdocs.io/
 https://git-scm.com/book/en/v2
 https://developer.mozilla.org/en-US/
+https://devdocs.io/
