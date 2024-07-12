@@ -170,6 +170,23 @@ Funciona con proyectos que utilizan: Babel, TypeScript, Node, React, Angular, Vu
 
 [Link](https://sass-lang.com/)
 
+## **Vite**
+
+<img src="https://www.svgrepo.com/show/354521/vitejs.svg" alt="vite" width="40" /> Vite es una herramienta de compilación que tiene como objetivo proporcionar una experiencia de desarrollo más rápida y ágil para proyectos web modernos.
+
+[Link](https://sass-lang.com/)
+
+## **Cucumber**
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" /> Cucumber es una herramienta de software que respalda el desarrollo impulsado por el comportamiento. Un elemento central del enfoque Cucumber BDD es su analizador de lenguaje ordinario llamado Gherkin. Permite especificar los comportamientos esperados del software en un lenguaje lógico que los clientes puedan entender.
+
+[Link](https://cucumber.io/)
+
+## **JPos**
+
+<img src="https://lh5.googleusercontent.com/proxy/BMQduFWVKGy3Rcq-Sffe87fE2UBh_YzXfguz48VGNv9knFimerxr26pOfdIEuoC8FHAi" alt="jpos" width="60" /> jPOS es una biblioteca/marco gratuito y de código abierto que proporciona un puente de alto rendimiento entre los mensajes de tarjeta generados en el punto de venta o terminales de cajero automático.
+
+[Link](http://www.jpos.org/)
 
 # **Webs**
 
@@ -214,6 +231,12 @@ devChallenges es una plataforma donde cualquiera puede aprender desarrollo web, 
 El repositorio central de Maven es un repositorio proporcionado por la comunidad de Maven. Contiene una gran cantidad de bibliotecas de uso común.
 
 [Link](https://search.maven.org/)
+
+## **JFrog**
+
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jfrog_logo_icon_170532.png" alt="jfrog" width="40" /> La plataforma JFrog ofrece un proceso de extremo a extremo para controlar el flujo de sus archivos binarios desde la construcción hasta la producción. Impulsa tus actualizaciones de software al límite.
+
+[Link](https://jfrog.com/)
 
 # **Aplicaciones**
 
